@@ -1,0 +1,22 @@
+.warpNavbar{
+    position: fixed;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+    z-index: 30;
+    width: 100vw;
+    background-color:  #fff;
+
+    img{
+        height: 40px;
+    }    
+    .btn{
+        background-color: #E77C27ed;
+        border: 2px solid #E77C27ed;
+        margin: 0 20px;
+        &:hover{
+            border: 2px solid #E77C27ed;
+            background-color: rgb(241, 141, 10);
+        }
+    }
+    }::-webkit-scrollbar { 
+        display: none; 
+    }
