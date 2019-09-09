@@ -1,5 +1,5 @@
-# Foody
-# Python & Reactjs
+# IQIglobal
+# Reactjs
 
 re-create one page for IQIGlobal
 
